@@ -2,7 +2,7 @@
   "name": "pcr",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://diffrence-exchange-85g90sshx-jay22999.vercel.app:8080",
+  "proxy": "https://arbi-cryon92.ddns.net:7834",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
