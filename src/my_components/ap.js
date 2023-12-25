@@ -6,7 +6,7 @@ import { ungzip } from "pako";
 //   transports: ["websocket"],
 // });
 
-const sio = io("http://192.168.31.236:8080", {
+const sio = io("http://arbi-cryon92.ddns.net:7834", {
   transports: ["websocket"],
 });
 
