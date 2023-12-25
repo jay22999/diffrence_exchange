@@ -2,7 +2,7 @@
   "name": "pcr",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://192.168.31.236:8080",
+  "proxy": "https://diffrence-exchange-85g90sshx-jay22999.vercel.app:8080",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
