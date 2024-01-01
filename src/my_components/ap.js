@@ -6,7 +6,7 @@ import { ungzip } from "pako";
 //   transports: ["websocket"],
 // });
 
-const sio = io("https://arbi.deltaswap.in.net", {
+const sio = io("http://arbi.deltaswap.in.net", {
   transports: ["websocket"],
 });
 
