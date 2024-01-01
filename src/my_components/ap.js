@@ -6,7 +6,7 @@ import { ungzip } from "pako";
 //   transports: ["websocket"],
 // });
 
-const sio = io("http://100.68.223.48:8000", {
+const sio = io("https://100.68.223.48:8000", {
   transports: ["websocket"],
 });
 
