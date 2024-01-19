@@ -242,7 +242,7 @@ function App() {
               </ul>
             </div>
           )}
-          <div className="sy-scroll overflow-y-scroll">
+          <div className="sy-scroll">
             {selectedSymbols.length !== 0 &&
               selectedSymbols.map((symbol) => {
                 return <div className="badge badge-accent">{symbol}</div>;
